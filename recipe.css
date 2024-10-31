@@ -1,0 +1,41 @@
+body{
+    background-color:brown ;
+}
+.containerbig{
+    background-color: white;
+
+
+}
+.image{
+    width: 100%;
+}
+.image img{
+    width: 40%;
+}
+.Preparation{
+    padding: 20px;
+    background-color: blue;
+
+}
+.Preparation h3{
+    color: pink;
+}
+h3{
+    color: orange;
+    font-size: 25px;
+}
+.instructions{
+
+}
+ol li::marker{
+    color: orange;
+}
+ol li{
+    line-height: 2.5rem;
+}
+.Ingredients ul li::marker{
+    color: orange;
+}
+
+
+
